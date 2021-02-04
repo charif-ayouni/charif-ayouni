@@ -23,7 +23,7 @@
 		<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg" alt="docker" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="100" height="40"/>
 	</a>
   	<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/>
