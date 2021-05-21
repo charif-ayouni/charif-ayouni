@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charif </h1>
 <h3 align="center">Web developer</h3>
 
--   👨‍💻 All of my projects are available at [Github charif-ayouni](https://github.com/charif-ayouni)
+-   👨‍💻 All of my projects are available at <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="15" height="15"/> [Github charif-ayouni](https://github.com/charif-ayouni) & <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gitlab" width="15" height="15"/>  [GitLab charif-ayouni](https://gitlab.com/charif-ayouni)
 
 -   💬 Ask me about **Symfony, React, PHP**
 
@@ -36,5 +36,8 @@
 	</a>
 	<a href="https://github.com/charif-ayouni" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github-pandemonium" height="30" width="40" />
+	</a>
+	<a href="https://gitlab.com/charif-ayouni" target="blank">
+		<img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab-pandemonium" height="30" width="40" />
 	</a>
 </p>
